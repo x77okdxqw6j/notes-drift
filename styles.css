@@ -1,0 +1,3 @@
+:root { --accent: hsl(234 60% 45%); }
+body { font-family: Georgia, serif; margin: 2rem; background: #f6f3ee; color: #222; }
+button { background: var(--accent); color: #fff; border: 0; padding: .5rem 1rem; }
